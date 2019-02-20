@@ -1,0 +1,16 @@
+{
+	"users": [
+		{
+			"login": "saeed",
+			"password": "saeed",
+			"visible_name": "Saeed Ahmad",
+			"role": "admin" 
+		},
+		{
+			"login": "adil",
+			"password": "adil",
+			"visible_name": "Adil Sikandar",
+			"role": "user"
+		}
+	]
+}
